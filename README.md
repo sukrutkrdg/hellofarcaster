@@ -1,0 +1,1 @@
+Bu proje Farcaster Mini App için hazırlanmış basit bir Hello Dünya uygulamasıdır. Vite + React kullanılarak geliştirilmiştir ve Vercel üzerinde deploy edilebilir.
